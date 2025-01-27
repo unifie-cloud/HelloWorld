@@ -1,0 +1,13 @@
+showVerionsTab: false
+showEnvVarsTab: true
+useRawYaml: false
+allowAutoApplyLimits: false
+name: HelloWorld
+title: HelloWorld
+logo: null
+tags:
+  - HelloWorld
+  - DevOps
+description: HelloWorld
+oneDeploymentPerCluster: false
+notAllowRemoveNamespace: false
